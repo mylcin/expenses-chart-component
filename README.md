@@ -16,7 +16,7 @@ Users should be able to:
 ![screenshot](public/Screenshot.png)
 
 ## Links
-Live Demo: [Click Here]()
+Live Demo: [Click Here](https://my-expenses-chart-component.netlify.app/)
 
 ## Built with
 - [React](https://reactjs.org/) - JS library
