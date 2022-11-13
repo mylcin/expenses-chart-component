@@ -2,7 +2,7 @@ import React from "react";
 import logo from "../assets/logo.svg";
 
 const ExpensesChart = ({ data }) => (
-  <div className="flex flex-col mx-auto min-w-[24rem] max-w-md h-screen p-4 mt-8">
+  <div className="flex flex-col mx-auto max-w-md h-screen p-4 mt-8">
     <header className="flex flex-row justify-between bg-softRed my-3 px-8 py-6 rounded-2xl">
       <div className="flex flex-col">
         <h1 className="text-paleOrange text-sm mb-1">My balance</h1>
